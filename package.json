@@ -1,0 +1,13 @@
+{
+  "name": "mondi_api",
+  "version": "1.0.0",
+  "description": "Runnig Mondi API on Docker",
+  "author": "Richard Chen <richard.chen.1989@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
